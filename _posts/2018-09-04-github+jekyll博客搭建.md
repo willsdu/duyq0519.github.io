@@ -56,17 +56,17 @@ brew install ruby 将会从 Ruby 的 GitHub 仓库抓取最新版本的代码，
 ## 安装jekyll及相关插件
 ### 安装jekyll 
 jekyll：jekyll是一个简单的免费的Blog生成工具，类似WordPress。但是和WordPress又有很大的不同，原因是jekyll只是一个生成静态网页的工具，不需要数据库支持。但是可以配合第三方服务,例如Disqus。最关键的是jekyll可以免费部署在Github上，而且可以绑定自己的域名。
-```
+```js
 gem install jekyll
 ```
 
 ### 其他
 bundle是打包用的，具体我也不是很了解
-```
+```js
  gem install bundler
 ```
 还有 jekyll-paginate
-```
+```js
 gem install jekyll-paginate
 ```
 
@@ -75,7 +75,7 @@ jekyll有很多的主题，你可以选择自己喜欢的主题。jekyll[官网]
 也有[免费主题](http://jekyllthemes.org/)，或者你去github上搜jekyll主题。
 我选的是主题地址：[这里](https://github.com/duyq0519/jekyll-theme-H2O), 
 将博客clone到本地的blog目录
-```
+```js
 git clone https://github.com/duyq0519/jekyll-theme-H2O.git blog
 ```
 ## github建库
