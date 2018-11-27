@@ -3,7 +3,7 @@ layout: post
 title: 'github+jekyll博客搭建'
 date: 2018-09-04
 categories: 技术
-cover: https://blog.mmschool.club/assets/img/birds.jpg
+cover: https://image.mmschool.club/github/birds.jpg
 tags: blog
 ---
 

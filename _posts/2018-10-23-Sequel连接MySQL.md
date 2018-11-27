@@ -3,7 +3,7 @@ layout: post
 title: 上安装MySQL8.0后，Sequel Pro连接不上
 date: 2018-10-23
 categories: 数据库
-cover: https://blog.mmschool.club/assets/img/sun.jpg
+cover: https://image.mmschool.club/github/sun.jpg
 tags: mysql
 ---
 
