@@ -37,6 +37,7 @@ https://gems.ruby-china.com
 ```Ruby
 gem update --system
 ```
+
 ### MAC
 1. mac 买来自带Ruby，检查下版本，更新到最新版即可。没有brew的先安装brew，使用下面代码安装
 ```Ruby
@@ -51,6 +52,7 @@ brew install ruby
 brew update 将会从 GitHub 上更新 brew 所支持的所有软件的版本信息，保证你能够安装到最新的版本
 brew install ruby 将会从 Ruby 的 GitHub 仓库抓取最新版本的代码，并编译安装
 3. 更新下gem,检查是否需要换源，操作和windows下的一样。
+4. 新版的mac由于苹果的安全策略，导致jekyll安装失败，网上或许有些解决办法，本人还未解决这个问题。
 
 ## 安装jekyll及相关插件
 ### 安装jekyll 
@@ -77,6 +79,7 @@ jekyll有很多的主题，你可以选择自己喜欢的主题。jekyll[官网]
 ```js
 git clone https://github.com/duyq0519/jekyll-theme-H2O.git blog
 ```
+
 ## github建库
 github建库和一般建库步骤一样的，就不贴图了，有点不同的是，库的名字是你github账号的名字。
 我的GitHub账号是github的用户名是duyq0519，那么我这个库名就是duyq0519.github.io
