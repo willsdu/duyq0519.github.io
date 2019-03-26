@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: '杜宇晴'
 nickname: '凡城长路'
-bio: 'golang开发者，热爱技术&设计，简单乐观爱创造'
+bio: 'golang开发者，热爱技术，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -49,10 +49,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  jianshu: '//www.jianshu.com/u/d4279e809e12'
+  github: '//github.com/duyq0519'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
