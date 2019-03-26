@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '杜宇晴的博客'
-description: '昵称反城长路，90后，前端菜鸟/golang开发/，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+description: '昵称反城长路，90后，前端菜鸟/golang开发/，热爱生活。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '杜宇晴, 杜宇晴的独立博客, 杜宇晴的博客, 后端, golang, golang博客, javascript, vuejs, golang, 设计'
 url: 'https://blog.mmschool.club' # your host
 
@@ -17,9 +17,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '杜宇晴'
+author: 'duyq0519'
 nickname: '凡城长路'
-bio: 'golang开发者，热爱技术，简单乐观爱创造'
+bio: 'golang开发者，热爱技术，简单乐观'
 avatar: '/assets/img/profile.png'
 
 # Search
