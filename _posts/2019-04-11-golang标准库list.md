@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'golang标准库heap,list,ring'
+title: 'golang标准库list'
 date: 2018-10-23
 categories: 数据库
 cover: https://image.mmschool.club/github/sun.jpg
@@ -88,6 +88,3 @@ func reverse(s *list.List) {
 	}
 }
 ```
-
-## ring
-## heap

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 上安装MySQL8.0后，Sequel Pro连接不上
+title: Mac上安装MySQL8.0后，Sequel Pro连接不上
 date: 2018-10-23
 categories: 数据库
 cover: https://image.mmschool.club/github/sun.jpg
@@ -33,13 +33,10 @@ mysql>ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'root';
 ``` 
 3. 再使用root密码登陆就可以了
 
-###
+### 后记
 > 这次连接是为了将测试数据库倒到本地，测试数据库时mysql 5.7 的版本，自己本机是8.0的版本，捣鼓了很长时间，就是不对
 后来将本机的版本换成5.7的，分分钟就倒好数据了。
 
 
 ## 参考
-作者：丁颖_3bd4
-链接：https://www.jianshu.com/p/b482f879a76a
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+[Mac 安装Mysql 8.0 后，Sequel Pro 用root用户链接不上](https://www.jianshu.com/p/b482f879a76a)

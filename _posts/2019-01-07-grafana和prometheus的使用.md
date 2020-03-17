@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'grafana'
+title: 'prometheus的pushgateway的一个坑'
 date: 2018-11-29
 categories: grafana
 cover: https://image.mmschool.club/github/wolf.jpg
